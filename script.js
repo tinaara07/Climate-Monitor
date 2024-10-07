@@ -1,4 +1,4 @@
-const apiKey = '7ea5ad2abf8ee70330f75502c88d9f1c'; // Replace with your weather API key
+const apiKey = '7ea5ad2abf8ee70330f75502c88d9f1c'; //  weather API key
 const cityInput = document.getElementById('city-input');
 const searchButton = document.getElementById('search-button');
 const currentWeatherDiv = document.getElementById('current-weather');
@@ -63,6 +63,7 @@ function handleSearch() {
         fetchCurrentWeather(city);
         fetchForecast(city);
         updateSearchHistory(city);
+        cityInput.value = ''; // Clear the search input field
     }
 }
  
