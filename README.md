@@ -13,4 +13,6 @@ How to Use
         1.      Enter a city name in the search bar and press Enter or click the search button.
         2.      The current weather and five-day forecast for the city will be displayed.
         3.      Previously searched cities are saved in the search history section. Click any city in the history to view its weather details again.
-        4.      Refresh the page to see your search history persist.
+        4.      Refresh the page to see your search history persist.![Untitled Video October 6, 2024 5_14 PM](https://github.com/user-attachments/assets/1f864d61-ad00-47f5-b3f9-dba6a79233b3)
+
+![Untitled Video October 6, 2024 5_14 PM](https://github.com/user-attachments/assets/53f9c993-1222-4f10-aef4-7196e9926603)
